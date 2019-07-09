@@ -1,0 +1,16 @@
+{
+  "name": "graphql-goodreads",
+  "version": "1.0.0",
+  "description": "GraphQL with REST API",
+  "main": "serve.js",
+  "repository": "git@github.com:thsnyzkn/graphql-goodreads.git",
+  "author": "Tahsin Yazkan <tahsinyazkan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.4.2",
+    "node-fetch": "^2.6.0",
+    "xml2js": "^0.4.19"
+  }
+}
